@@ -3,7 +3,7 @@
 ###Machine Learning
 
 
-**I have written a jupyter notebook in a very self-explanatory manner. **Please read the notebook for the full details.** 
+**I have written a jupyter notebook in a very self-explanatory manner.** **Please read the notebook for the full details.** 
  
 Testing out deep learning on the CIFAR-10 dataset. I wanted to see how two different neural network architectures compared when it comes to identifying small scale color images. This project covers the build, the training process, and the final head-to-head results. 
 
