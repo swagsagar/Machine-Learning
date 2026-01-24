@@ -4,6 +4,10 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.0%2B-orange.svg)](https://scikit-learn.org/)
 [![ML Framework](https://img.shields.io/badge/Focus-Experimental%20Design-green.svg)](#)
 
+
+## Interactive Documentation: This project is structured as a self-documenting workflow. The .ipynb notebook follows a logical narrative—integrating data theory, code execution, and visual insights—making it easy for reviewers to follow the end-to-end technical decision-making process.
+
+
 ## Executive Summary
 This project implements a robust machine learning pipeline to classify celestial objects—**Stars, Galaxies, and Quasars**—using a dataset of **100,000** observations from the **Sloan Digital Sky Survey (SDSS) Data Release 17**.
 
