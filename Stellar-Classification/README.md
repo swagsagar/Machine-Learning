@@ -51,6 +51,5 @@ I executed 8 specific experiments to benchmark performance across different math
 
 ## Project Structure
 ```bash
-├── Bhandari_Project1.ipynb    # Full ML Pipeline (EDA, Preprocessing, Experiments)
+├── Stellar_Classification_SDSS DR-17.ipynb    # Full ML Pipeline (EDA, Preprocessing, Experiments)
 ├── README.md                   # Project Documentation
-└── (assets/)                   # Performance plots and Confusion Matrices
